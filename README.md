@@ -1,5 +1,6 @@
 # 🏋 Calculador de IMC
 
-# Informações Gerais 📋
+## Informações Gerais 📋
+- Projeto feito para a atividade de Educação Física.
 ##
-Projeto feito para a atividade de Educação Física.
+
