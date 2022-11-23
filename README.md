@@ -1,1 +1,3 @@
-# site-IMC
+# 🏋 Calculador de IMC
+
+# iNFORMAÇÕES Gerais📋
