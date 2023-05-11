@@ -7,10 +7,10 @@
 - CSS3
 - JavaScript
 ## Goals 📈
-[x] The project needs to work.
-[x] An "alert" message needs to appear when the BMI is in Obesity or Below Normal ranges.
-[x] The entire layout needs to be redesigned.
-[] When the age is between 0 and 12 years old, the system must redirect to a growth chart table (this table can be easily found).
+- [x] The project needs to work.
+- [x] An "alert" message needs to appear when the BMI is in Obesity or Below Normal ranges.
+- [x] The entire layout needs to be redesigned.
+- [] When the age is between 0 and 12 years old, the system must redirect to a growth chart table (this table can be easily found).
 ## How to Use 🤔
 Access the website.
 Enter the necessary information such as height, weight, and age.
