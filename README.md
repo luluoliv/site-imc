@@ -1,19 +1,25 @@
-# 🏋 Calculador de IMC
-
-## Informações Gerais 📋
-- Projeto feito para a atividade de Educação Física.
-- Utilizado Visual Studio Code
-- [Autor do código](https://github.com/JLopes2021/aparecida-nutricao.git)
-##
-
-## Tecnologias ⚙️
+# 🏋 IMC Calculator
+## General Information 📋
+- Project made for a Physical Education activity.
+- Developed using Visual Studio Code.
+## Technologies Used ⚙️
 - HTML5
 - CSS3
 - JavaScript
-
-## Metas 📈
-
-- [x] O Projeto precisa funcionar.
-- [x] Será necessário que apareça uma mensagem em "alert" quando o IMC estiver em Obesidade ou Abaixo do Normal. 
-- [x] Todo o layout precisa ser alterado.
-- [ ] Quando a idade for entre 0 e 12 anos, o sistema deve redirecionar para uma tabela de curva de crescimento (essa tabela é facilmente encontrada)
+## Goals 📈
+[x] The project needs to work.
+[x] An "alert" message needs to appear when the BMI is in Obesity or Below Normal ranges.
+[x] The entire layout needs to be redesigned.
+[] When the age is between 0 and 12 years old, the system must redirect to a growth chart table (this table can be easily found).
+## How to Use 🤔
+Access the website.
+Enter the necessary information such as height, weight, and age.
+Click the "Calculate" button to check your BMI.
+An alert message will appear indicating whether your BMI is in the normal range, obesity range, or below normal range.
+The system also saves the information in a table for future reference.
+## Future Improvements 🔮
+Improve the design of the layout.
+Add more information about BMI and its significance.
+Make the website responsive for mobile devices.
+## Credits 💳
+- [Code Author](https://github.com/JLopes2021/aparecida-nutricao.git)
